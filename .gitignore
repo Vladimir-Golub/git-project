@@ -1,0 +1,10 @@
+#folders
+
+.idea/
+logs/
+docs/*.txt
+
+
+#files
+
+about.html
